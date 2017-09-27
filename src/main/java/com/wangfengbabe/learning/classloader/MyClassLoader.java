@@ -6,6 +6,6 @@ package com.wangfengbabe.learning.classloader;
 public class MyClassLoader extends ClassLoader {
 
   public Class loadClass(String className) {
-
+    return null;
   }
 }

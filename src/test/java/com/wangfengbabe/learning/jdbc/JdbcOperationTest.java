@@ -1,4 +1,4 @@
-package com.wangfengbabe.learning.myjdbc;
+package com.wangfengbabe.learning.jdbc;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.IsNull.notNullValue;

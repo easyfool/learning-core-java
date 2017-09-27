@@ -1,9 +1,9 @@
-package com.wangfengbabe.learning.myjdbc;
+package com.wangfengbabe.learning.jdbc;
 
-import static com.wangfengbabe.learning.myjdbc.Constant.MYJDBC_URL;
-import static com.wangfengbabe.learning.myjdbc.Constant.MYSQL_DRIVER_CLASS;
-import static com.wangfengbabe.learning.myjdbc.Constant.PASSWORD;
-import static com.wangfengbabe.learning.myjdbc.Constant.USER_NAME;
+import static com.wangfengbabe.learning.jdbc.Constant.MYJDBC_URL;
+import static com.wangfengbabe.learning.jdbc.Constant.MYSQL_DRIVER_CLASS;
+import static com.wangfengbabe.learning.jdbc.Constant.PASSWORD;
+import static com.wangfengbabe.learning.jdbc.Constant.USER_NAME;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
