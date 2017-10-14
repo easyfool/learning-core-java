@@ -44,7 +44,7 @@ hs_err_pid*
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
-
+.idea/*
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
@@ -62,6 +62,7 @@ cmake-build-debug/
 
 # IntelliJ
 out/
+.idea/*
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
