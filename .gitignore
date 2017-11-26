@@ -365,3 +365,4 @@ buildNumber.properties
 # Code Recommenders
 
 # Scala IDE specific (Scala & Java development for Eclipse)
+target/*
