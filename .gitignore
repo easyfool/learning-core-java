@@ -339,3 +339,29 @@ buildNumber.properties
 .classpath
 .project
 
+### Eclipse template
+
+
+# External tool builders
+
+# Locally stored "Eclipse launch configurations"
+
+# PyDev specific (Python IDE for Eclipse)
+
+# CDT-specific (C/C++ Development Tooling)
+
+# Java annotation processor (APT)
+
+# PDT-specific (PHP Development Tools)
+
+# sbteclipse plugin
+
+# Tern plugin
+
+# TeXlipse plugin
+
+# STS (Spring Tool Suite)
+
+# Code Recommenders
+
+# Scala IDE specific (Scala & Java development for Eclipse)
